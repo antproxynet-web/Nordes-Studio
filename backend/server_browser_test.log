@@ -1,0 +1,15 @@
+nohup: ignoring input
+✓ Banco de dados inicializado
+============================================================
+🚀 Servidor Nordes Studio iniciado
+============================================================
+📍 URL: http://localhost:5000
+📡 CORS: Configurado para aceitar requisições do frontend
+🔐 JWT: Autenticação habilitada
+============================================================
+Traceback (most recent call last):
+  File "/home/ubuntu/project/backend/app_new.py", line 99, in <module>
+    socketio.run(app, debug=True, host='0.0.0.0', port=5000)
+  File "/usr/local/lib/python3.11/dist-packages/flask_socketio/__init__.py", line 649, in run
+    raise RuntimeError('The Werkzeug web server is not '
+RuntimeError: The Werkzeug web server is not designed to run in production. Pass allow_unsafe_werkzeug=True to the run() method to disable this error.

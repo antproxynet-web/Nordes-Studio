@@ -1,0 +1,192 @@
+nohup: ignoring input
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 718-959-349
+(2428) wsgi starting up on http://0.0.0.0:5000
+(2428) accepted ('10.94.168.1', 36116)
+104.154.136.55,34.110.191.241,35.191.135.68,10.94.168.1 - - [01/Feb/2026 23:00:58] "GET /frontend/pages/login.html HTTP/1.1" 404 4450 0.003689
+(2428) accepted ('10.94.168.1', 36118)
+104.154.136.55,34.110.191.241,35.191.135.69,10.94.168.1 - - [01/Feb/2026 23:00:58] "GET /frontend/pages/erro-pages/imagens/mascotes/mascote500.png HTTP/1.1" 404 4450 0.002165
+(2428) accepted ('10.94.168.1', 36122)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:00:58] "GET /frontend/assets/images/icons/fav.png HTTP/1.1" 404 4450 0.002208
+(2428) accepted ('10.94.168.1', 37108)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /login.html HTTP/1.1" 200 16160 0.003232
+(2428) accepted ('10.94.168.1', 37124)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/global/global.css HTTP/1.1" 200 1337 0.000754
+(2428) accepted ('10.94.168.1', 37126)
+(2428) accepted ('10.94.168.1', 37130)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/js/config.js HTTP/1.1" 200 1659 0.000866
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/images/icons/logo.png HTTP/1.1" 200 223700 0.001688
+(2428) accepted ('10.94.168.1', 37144)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/script/log_improved.js HTTP/1.1" 200 11956 0.000645
+(2428) accepted ('10.94.168.1', 37152)
+(2428) accepted ('10.94.168.1', 37160)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/js/auth-guard.js HTTP/1.1" 200 6962 0.000491
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/js/utils/api-client.js HTTP/1.1" 200 7083 0.000450
+(2428) accepted ('10.94.168.1', 37176)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/global/scroll.js HTTP/1.1" 200 966 0.000808
+(2428) accepted ('10.94.168.1', 37178)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:06] "GET /assets/font-horizon/CyberHorizon-ARAvL.ttf HTTP/1.1" 200 59369 0.001232
+(2428) accepted ('10.94.168.1', 37184)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:07] "GET /assets/images/icons/fav.png HTTP/1.1" 200 223699 0.001428
+(2428) accepted ('127.0.0.1', 41978)
+/usr/local/lib/python3.11/dist-packages/jwt/api_jwt.py:153: InsecureKeyLengthWarning: The HMAC key is 28 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  return self._jws.encode(
+127.0.0.1 - - [01/Feb/2026 23:01:20] "POST /api/login HTTP/1.1" 200 809 0.126915
+(2428) accepted ('10.94.168.1', 57270)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /home.html HTTP/1.1" 200 13897 0.000769
+(2428) accepted ('10.94.168.1', 57280)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/global/global.css HTTP/1.1" 304 178 0.001240
+(2428) accepted ('10.94.168.1', 57296)
+(2428) accepted ('10.94.168.1', 57302)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/style/home.css HTTP/1.1" 200 16801 0.000617
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/global/scroll.css HTTP/1.1" 200 1001 0.000461
+(2428) accepted ('10.94.168.1', 57318)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/footer/footer.css HTTP/1.1" 200 2748 0.000756
+(2428) accepted ('10.94.168.1', 57326)
+(2428) accepted ('10.94.168.1', 57338)
+(2428) accepted ('10.94.168.1', 57348)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/js/auth-guard.js HTTP/1.1" 304 181 0.000574
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/global/scroll.js HTTP/1.1" 304 176 0.000444
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/images/icons/logo.png HTTP/1.1" 304 179 0.000499
+(2428) accepted ('10.94.168.1', 57378)
+(2428) accepted ('10.94.168.1', 57362)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/script/script.js HTTP/1.1" 200 1747 0.000467
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/script/home.js HTTP/1.1" 200 16117 0.000620
+(2428) accepted ('10.94.168.1', 57394)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/js/config.js HTTP/1.1" 304 178 0.000586
+(2428) accepted ('10.94.168.1', 57396)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/footer/footer.js HTTP/1.1" 404 4450 0.001762
+(2428) accepted ('10.94.168.1', 57404)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/font-horizon/CyberHorizon-ARAvL.ttf HTTP/1.1" 304 338 0.000850
+(2428) accepted ('10.94.168.1', 57420)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/script/books_data.json HTTP/1.1" 200 10632 0.000819
+(2428) accepted ('10.94.168.1', 57430)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/profile_2_20260131_154329_profile.jpg HTTP/1.1" 200 172030 0.001139
+(2428) accepted ('10.94.168.1', 57442)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/images/banners/banner1.jpg HTTP/1.1" 200 51179 0.001194
+(2428) accepted ('10.94.168.1', 57454)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/images/banners/banner2.webp HTTP/1.1" 200 55810 0.000821
+(2428) accepted ('10.94.168.1', 57462)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /assets/images/banners/banner3.jpeg HTTP/1.1" 200 34217 0.000581
+(2428) accepted ('10.94.168.1', 57474)
+(2428) accepted ('10.94.168.1', 57484)
+(2428) accepted ('10.94.168.1', 57488)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/livro-6.jpg HTTP/1.1" 200 145105 0.001934
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/livro-2.jpg HTTP/1.1" 200 128790 0.003505
+(2428) accepted ('10.94.168.1', 57502)
+(2428) accepted ('10.94.168.1', 57522)
+(2428) accepted ('10.94.168.1', 57514)
+(2428) accepted ('10.94.168.1', 57538)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/livro-7.jpg HTTP/1.1" 200 151100 0.007047
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/livro-5.jpg HTTP/1.1" 200 153073 0.003245
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/livro-3.jpg HTTP/1.1" 200 568125 0.007176
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/livro-4.jpg HTTP/1.1" 200 161274 0.006841
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:20] "GET /uploads/livro-1.jpg HTTP/1.1" 200 538524 0.003791
+(2428) accepted ('10.94.168.1', 57340)
+104.154.136.55,34.110.191.241,35.191.110.84,10.94.168.1 - - [01/Feb/2026 23:01:33] "GET /perfil.html HTTP/1.1" 200 17199 0.001073
+(2428) accepted ('10.94.168.1', 57352)
+(2428) accepted ('10.94.168.1', 57364)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:33] "GET /assets/global/alerts.css HTTP/1.1" 404 4450 0.002439
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:33] "GET /assets/js/auth-guard.js HTTP/1.1" 304 181 0.000716
+(2428) accepted ('10.94.168.1', 57380)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:33] "GET /assets/global/alerts.js HTTP/1.1" 404 4450 0.002046
+(2428) accepted ('10.94.168.1', 57384)
+/usr/local/lib/python3.11/dist-packages/jwt/api_jwt.py:371: InsecureKeyLengthWarning: The HMAC key is 28 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:33] "GET /api/user/profile HTTP/1.1" 200 462 0.004100
+(2428) accepted ('10.94.168.1', 57390)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:33] "GET /uploads/profile_2_20260131_154329_profile.jpg HTTP/1.1" 304 208 0.000637
+(2428) accepted ('10.94.168.1', 57398)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:33] "GET /favicon.ico HTTP/1.1" 404 4450 0.001783
+(2428) accepted ('10.94.168.1', 57406)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:39] "GET /editar-perfil.html HTTP/1.1" 200 18100 0.000870
+(2428) accepted ('10.94.168.1', 57418)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:39] "GET /assets/images/icons/default-avatar.png HTTP/1.1" 200 1889 0.000803
+(2428) accepted ('10.94.168.1', 57422)
+104.154.136.55,34.110.191.241,35.191.110.86,10.94.168.1 - - [01/Feb/2026 23:01:39] "GET /assets/js/auth-guard.js HTTP/1.1" 304 181 0.000562
+(2428) accepted ('10.94.168.1', 57426)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:39] "GET /api/user/profile HTTP/1.1" 200 462 0.001671
+(2428) accepted ('10.94.168.1', 57438)
+104.154.136.55,34.110.191.241,35.191.110.85,10.94.168.1 - - [01/Feb/2026 23:01:39] "GET /uploads/profile_2_20260131_154329_profile.jpg HTTP/1.1" 304 208 0.000694
+ * Detected change in '/home/ubuntu/NordesV7/backend/models/chat.py', reloading
+✓ Banco de dados inicializado
+✓ Blueprints registrados
+✓ Error handlers registrados
+✓ SocketIO inicializado
+✓ Eventos SocketIO registrados
+============================================================
+🚀 Servidor Nordes Studio iniciado
+============================================================
+📍 URL: http://localhost:5000
+🔐 JWT: Autenticação habilitada
+💬 SocketIO: Chat em tempo real ativo
+🔑 OAuth: Google Login configurado
+============================================================
+
+✅ Funcionalidades ativas:
+   - Login tradicional (email/senha)
+   - Google OAuth
+   - Chat em tempo real
+   - Validação de username
+   - Sistema de verificação
+   - Upload de fotos de perfil
+============================================================
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 718-959-349
+(3109) wsgi starting up on http://0.0.0.0:5000
+ * Detected change in '/home/ubuntu/NordesV7/backend/routes/chat.py', reloading
+✓ Banco de dados inicializado
+✓ Blueprints registrados
+✓ Error handlers registrados
+✓ SocketIO inicializado
+✓ Eventos SocketIO registrados
+============================================================
+🚀 Servidor Nordes Studio iniciado
+============================================================
+📍 URL: http://localhost:5000
+🔐 JWT: Autenticação habilitada
+💬 SocketIO: Chat em tempo real ativo
+🔑 OAuth: Google Login configurado
+============================================================
+
+✅ Funcionalidades ativas:
+   - Login tradicional (email/senha)
+   - Google OAuth
+   - Chat em tempo real
+   - Validação de username
+   - Sistema de verificação
+   - Upload de fotos de perfil
+============================================================
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 718-959-349
+(3124) wsgi starting up on http://0.0.0.0:5000
+ * Detected change in '/home/ubuntu/NordesV7/backend/routes/static_routes.py', reloading
+✓ Banco de dados inicializado
+✓ Blueprints registrados
+✓ Error handlers registrados
+✓ SocketIO inicializado
+✓ Eventos SocketIO registrados
+============================================================
+🚀 Servidor Nordes Studio iniciado
+============================================================
+📍 URL: http://localhost:5000
+🔐 JWT: Autenticação habilitada
+💬 SocketIO: Chat em tempo real ativo
+🔑 OAuth: Google Login configurado
+============================================================
+
+✅ Funcionalidades ativas:
+   - Login tradicional (email/senha)
+   - Google OAuth
+   - Chat em tempo real
+   - Validação de username
+   - Sistema de verificação
+   - Upload de fotos de perfil
+============================================================
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 718-959-349
+(3128) wsgi starting up on http://0.0.0.0:5000
